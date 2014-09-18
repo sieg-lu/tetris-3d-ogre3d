@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Blocks>
+	<Set name="01">
+		<Cube>
+			<X>1</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>3</Z>
+			<Type>General</Type>
+		</Cube>
+	</Set>
+
+	<Set name="02">
+		<Cube>
+			<X>1</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>1</Z>
+			<Type>Explosive</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>3</Z>
+			<Type>General</Type>
+		</Cube>
+	</Set>
+
+	<Set name="03">
+		<Cube>
+			<X>1</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>1</Z>
+			<Type>Extendable</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>3</Z>
+			<Type>Explosive</Type>
+		</Cube>
+	</Set>
+
+	<Set name="04">
+		<Cube>
+			<X>1</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+	</Set>
+
+	<Set name="05">
+		<Cube>
+			<X>1</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>2</Z>
+			<Type>Explosive</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+	</Set>
+
+	<Set name="06">
+		<Cube>
+			<X>1</X>
+			<Z>1</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>1</Z>
+			<Type>Extendable</Type>
+		</Cube>
+		<Cube>
+			<X>1</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+		<Cube>
+			<X>2</X>
+			<Z>2</Z>
+			<Type>General</Type>
+		</Cube>
+	</Set>
+</Blocks>

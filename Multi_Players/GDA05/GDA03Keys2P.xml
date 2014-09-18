@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<KeysFunctions name="keys_functions">
+	<Key name="KC_NUMPAD8">
+		<KeyCode name="key_code">0x48</KeyCode>
+		<EventName name="event_name">MoveXPositive</EventName>
+	</Key>
+	<Key name="KC_NUMPAD5">
+		<KeyCode name="key_code">0x4C</KeyCode>
+		<EventName name="event_name">MoveXNegative</EventName>
+	</Key>
+	<Key name="KC_NUMPAD4">
+		<KeyCode name="key_code">0x4B</KeyCode>
+		<EventName name="event_name">MoveZNegative</EventName>
+	</Key>
+	<Key name="KC_NUMPAD6">
+		<KeyCode name="key_code">0x4D</KeyCode>
+		<EventName name="event_name">MoveZPositive</EventName>
+	</Key>
+	<Key name="KC_NUMPAD1">
+		<KeyCode name="key_code">0x4F</KeyCode>
+		<EventName name="event_name">RotateOnY</EventName>
+	</Key>
+	<Key name="KC_NUMPAD0">
+		<KeyCode name="key_code">0x52</KeyCode>
+		<EventName name="event_name">BlockFall</EventName>
+	</Key>
+</KeysFunctions>
